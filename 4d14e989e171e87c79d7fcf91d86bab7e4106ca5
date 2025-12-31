@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e1376f32_b20ba89e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2025-12-31T16:09:43Z",
+      "side": 1,
+      "message": "Shouldn’t have moved it, caused an NPE",
+      "revId": "4d14e989e171e87c79d7fcf91d86bab7e4106ca5",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
