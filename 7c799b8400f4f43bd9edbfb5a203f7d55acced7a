@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "df4de514_3848e33f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000018
+      },
+      "writtenOn": "2026-02-12T10:46:38Z",
+      "side": 1,
+      "message": "Maybe move it to QPR2 branch?",
+      "revId": "7c799b8400f4f43bd9edbfb5a203f7d55acced7a",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
