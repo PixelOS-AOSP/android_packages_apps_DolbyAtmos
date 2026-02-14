@@ -16,6 +16,23 @@
       "message": "Maybe move it to QPR2 branch?",
       "revId": "7c799b8400f4f43bd9edbfb5a203f7d55acced7a",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "caaba2d5_8f35e047",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-02-14T04:02:15Z",
+      "side": 1,
+      "message": "We don\u0027t accept TL here, go to crowdin instead.",
+      "revId": "7c799b8400f4f43bd9edbfb5a203f7d55acced7a",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
