@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7e42b465_e4687b22",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000090
+      },
+      "writtenOn": "2026-04-04T16:29:31Z",
+      "side": 1,
+      "message": "https://t.me/XAGASupport/797489 new icon",
+      "revId": "b4a4de1ff8af4738ec1a48abc04034cb1e9cbcc0",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
