@@ -15,6 +15,7 @@ import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material.icons.filled.Edit
 import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.ExposedDropdownMenuAnchorType
 import androidx.compose.material3.ExposedDropdownMenuBox
 import androidx.compose.material3.ExposedDropdownMenuDefaults
 import androidx.compose.material3.Text
@@ -64,7 +65,7 @@ fun PresetSelector(viewModel: EqualizerViewModel) {
                 trailingIcon = { ExposedDropdownMenuDefaults.TrailingIcon(expanded = expanded) },
                 colors = ExposedDropdownMenuDefaults.textFieldColors(),
                 modifier =
-                    Modifier.menuAnchor()
+                    Modifier.menuAnchor(ExposedDropdownMenuAnchorType.PrimaryNotEditable)
                         // prevent keyboard from popping up
                         .focusProperties { canFocus = false },
             )

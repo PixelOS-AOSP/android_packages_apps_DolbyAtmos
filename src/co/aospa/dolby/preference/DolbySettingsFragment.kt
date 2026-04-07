@@ -12,6 +12,7 @@ import android.media.AudioDeviceInfo
 import android.media.AudioManager
 import android.os.Bundle
 import android.os.Handler
+import android.os.Looper
 import android.widget.Toast
 import androidx.preference.ListPreference
 import androidx.preference.Preference
@@ -58,7 +59,7 @@ class DolbySettingsFragment : SettingsBasePreferenceFragment(), OnPreferenceChan
     private val audioManager by lazy {
         requireContext().getSystemService(AudioManager::class.java)!!
     }
-    private val handler = Handler()
+    private val handler = Handler(Looper.getMainLooper())
 
     private var isOnSpeaker = true
         set(value) {
