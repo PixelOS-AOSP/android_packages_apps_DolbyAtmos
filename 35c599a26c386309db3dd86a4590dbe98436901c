@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0a30e01c_f0ed6681",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2026-04-10T20:28:52Z",
+      "side": 1,
+      "message": "What are the warnings? Might be better leaving them in the description",
+      "revId": "35c599a26c386309db3dd86a4590dbe98436901c",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
