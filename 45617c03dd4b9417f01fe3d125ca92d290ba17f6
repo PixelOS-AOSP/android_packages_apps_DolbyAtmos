@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "23da4a19_9db8b966",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2026-04-10T20:28:15Z",
+      "side": 1,
+      "message": "What do you mean by “official Dolby app icon”?",
+      "revId": "45617c03dd4b9417f01fe3d125ca92d290ba17f6",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
