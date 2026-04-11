@@ -16,6 +16,24 @@
       "message": "What do you mean by “official Dolby app icon”?",
       "revId": "45617c03dd4b9417f01fe3d125ca92d290ba17f6",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2376465b_7299b3f7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000090
+      },
+      "writtenOn": "2026-04-11T10:46:55Z",
+      "side": 1,
+      "message": "What I meant by \"Official Dolby icon\" was there [logo](https://news.dolby.com/en-WW/assets/categories/1219/) they either use black on white background or white on black background, and black just looks cooler 😉",
+      "parentUuid": "23da4a19_9db8b966",
+      "revId": "45617c03dd4b9417f01fe3d125ca92d290ba17f6",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
